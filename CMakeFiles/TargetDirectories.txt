@@ -1,0 +1,1 @@
+/home/eirot/MyDev/Opencv/EirotVideoStab/CMakeFiles/videoStabdemo.dir

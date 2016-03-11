@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eirot/MyDev/Opencv/EirotVideoStab/videostab.cpp
+opencv2/opencv.hpp
+-
+opencv/cv.h
+-
+iostream
+-
+cassert
+-
+cmath
+-
+fstream
+-
+
